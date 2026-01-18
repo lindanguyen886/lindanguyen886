@@ -6,3 +6,4 @@
 📫 Contact: https://www.linkedin.com/in/linda-nguyen28/ | nguyenlinda886@gmail.com
 
 ### Featured Projects
+- AI Equity Data Challenge – TECHNATION Canada (Top 5 Finalist, Nov 2025)
