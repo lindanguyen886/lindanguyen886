@@ -1,6 +1,6 @@
 ## Hi, I'm Linda Nguyen 👋
 
-💼 Background: Business / Data / Tech  
+💼 Background: Business / Data / Tech /AI 
 🎯 Goal: Data analyst / Data Scientist / Machine Learning 
 🛠 Skills: R, Python, SQL, Excel, Git, MongoDB, Graph DB, MATLAB, Cognos  
 📫 Contact: https://www.linkedin.com/in/linda-nguyen28/ | nguyenlinda886@gmail.com
