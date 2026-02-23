@@ -1,100 +1,158 @@
-# 👋 Huong Thao (Linda) Nguyen  
-**M.M. Data Analytics | AI & Decision-Focused Data Science | Ontario, Canada**
+# 🚀 Huong Thao (Linda) Nguyen  
 
-I am a Master of Management (Data Analytics) candidate at the University of Windsor (Graduating April 2026) with strong foundations in predictive modeling, structured data analysis, and applied artificial intelligence.
-
-My interests lie at the intersection of:
-
-- Data Science  
-- Applied AI Systems  
-- Decision Support Analytics  
-- Financial & Business Intelligence  
-
-I enjoy building solutions that combine statistical rigor with intelligent automation and clear business impact.
-
-🎯 Currently seeking **New Graduate roles (2026 start)** in:
-- Data Analyst  
-- Data Scientist  
-- AI / Machine Learning Associate  
-- Analytics Associate  
-- Decision Support / Business Intelligence  
+AI / ML Engineer | Data Analyst | Financial AI & Decision Intelligence | Future AI Product Leader  
 
 ---
 
-## 🔍 Core Strengths
+## 👋 About Me  
 
-- 📊 Predictive Modeling (Regression, Classification, Model Evaluation)
-- 🧠 Applied AI & Multi-Agent Systems
-- 🗄 SQL-Based Structured Data Analysis
-- 📈 Financial & Business Analytics
-- 📢 Data Storytelling & Stakeholder Communication
-- 🔁 End-to-End Analytical Project Development
+I am a Data Analytics graduate student with hands-on experience building:
 
-### 🛠 Technical Toolkit
-`Python (pandas, scikit-learn)`  
-`R (tidymodels)`  
-`SQL`  
-`Excel`  
-`Cognos`
+- Machine learning models for tabular and time-series forecasting  
+- LLM-powered financial applications  
+- SQL-driven analytical workflows  
+- Business intelligence dashboards and decision-support systems  
 
----
+My work focuses on applying AI and machine learning to structured financial and business problems — with strong emphasis on model validation, interpretability, and real-world decision impact.
 
-## 📌 Highlighted Projects
+I combine technical depth with business understanding and Agile exposure (Professional Scrum Fundamentals completed; PSM I in progress).
 
-### 🤖 Portfolio Assistant AI – Multi-Agent Investment System  
-Designed and implemented a multi-agent AI system that simulates collaborative financial analysis.
-
-- Built coordinated AI agents responsible for data gathering, analysis, and decision support  
-- Structured agent workflows to simulate portfolio-level reasoning  
-- Applied financial logic to generate structured investment insights  
-- Demonstrated how AI systems can assist with analytical decision-making  
-
-**Focus:** Applied AI architecture + financial reasoning + intelligent automation
+**Long-term goal:** Lead AI-driven product and analytics teams bridging technology and business strategy.
 
 ---
 
-### 🏠 Ames Housing – Pre-Listing Price Recommendation Model  
-Built and compared Linear Regression, GLMNet, and Random Forest models using `tidymodels` to estimate residential sale prices.
+## 🔬 Current Focus
 
-- Designed structured EDA & feature engineering pipeline  
-- Evaluated models using RMSE under bootstrap resampling  
-- Selected interpretable baseline explaining ~73% variance  
-- Visualized prediction calibration (Actual vs Predicted)  
-- Framed results for business pricing decisions  
-
-**Focus:** Interpretability vs Predictive Power Tradeoff
+- 📈 Financial Time-Series Forecasting (LightGBM, multi-horizon modeling)
+- 🤖 LLM-based Investment Assistant Systems
+- 🧠 Applied Machine Learning for structured tabular data
+- 📊 Business Intelligence & SQL-based analytics
+- ⚙️ Model validation, leakage prevention, and forecasting stability
+- 🏗 Agile product thinking
 
 ---
 
-### 🇨🇦 AI Equity Data Challenge – Top 5 National Finalist  
-Analyzed large-scale Canadian labor market datasets to evaluate AI adoption impact on workforce equity.
+## 🛠 Tech Stack
 
-- Cleaned and structured datasets using SQL  
-- Identified wage disparities & systemic adoption risks  
-- Developed business and policy recommendations  
-- Presented insights to industry judges  
+### Programming
+Python (pandas, numpy, scikit-learn)  
+R (tidymodels)  
+SQL  
 
-**Focus:** Structured problem framing + large-scale data analysis + stakeholder communication
+### Machine Learning
+Regression, Random Forest, LightGBM, GLMNet  
+Classification, Clustering  
+Feature Engineering  
+Cross-validation, RMSE, Weighted RMSE  
+
+### Time Series
+Forward validation  
+Multi-horizon forecasting  
+Leakage prevention  
+
+### LLM & AI Systems
+OpenAI API integration  
+Prompt engineering  
+Structured output design  
+Context injection strategies  
+
+### Data & BI Tools
+Excel  
+Cognos  
+Power BI (academic exposure)  
+MongoDB  
+Matplotlib  
 
 ---
 
-## 🧩 My Approach to Data & AI
-
-I prioritize:
-
-- Understanding the business problem before building models  
-- Choosing interpretable solutions when appropriate  
-- Structuring projects for clarity and reproducibility  
-- Designing AI systems with real-world decision logic  
-- Communicating trade-offs clearly to non-technical stakeholders  
-
-I believe strong analytics and AI should not only be technically sound — but also interpretable, reliable, and decision-oriented.
+# 🚀 Featured Projects
 
 ---
 
-## 📫 Connect With Me
+## 📊 Hedge Fund Time Series Forecasting *(In Progress)*  
 
-📍 Ontario, Canada  
-🔗 LinkedIn: www.linkedin.com/in/linda-nguyen28  
-💻 GitHub: github.com/lindanguyen886  
-📧 Email: nguyenlinda886@gmail.com
+LightGBM-based financial forecasting model (Kaggle competition)
+
+- Built multi-horizon regression pipeline for structured financial data  
+- Designed time-aware validation to prevent data leakage  
+- Tuned hyperparameters with early stopping  
+- Achieved preliminary Weighted RMSE ≈ 0.079 (ongoing optimization)  
+- Conducting forecast-horizon diagnostics for robustness  
+
+🔗 Repository:  
+https://github.com/lindanguyen886/hedge-fund-time-series  
+
+---
+
+## 🤖 Portfolio Assistant AI – LLM-Based Investment Assistant *(In Progress)*  
+
+AI-powered individual investment assistant using OpenAI APIs  
+
+- Designed structured prompt engineering strategies  
+- Implemented financial context injection for improved reasoning  
+- Generated structured portfolio summaries and decision insights  
+- Exploring retrieval-based knowledge integration  
+
+🔗 Repository:  
+https://github.com/lindanguyen886/portfolio-assistant-ai  
+
+---
+
+## 🏠 Ames Housing Price Prediction  
+
+End-to-end ML pipeline for tabular regression  
+
+- Feature engineering and domain-driven variable selection  
+- Compared Linear Regression, GLMNet, Random Forest  
+- Achieved ~73% variance explanation (R²)  
+- Balanced model performance and interpretability  
+
+---
+
+## 🏆 TECHNATION Canada – AI Equity Data Challenge (Top 5 Finalist)
+
+- Analyzed national labor market datasets using SQL  
+- Identified AI adoption risks and wage disparities  
+- Presented executive-level recommendations  
+
+---
+
+# 🎓 Certifications
+
+- Professional Scrum Fundamentals – Scrum.org (Completed Jan 2026)  
+- Professional Scrum Master I (PSM I) – In Progress  
+- Python for Data Science, AI & Development – IBM  
+- Intermediate Regression in R – DataCamp  
+- Data Visualization and Dashboards – IBM  
+- Python Project for Data Science – IBM  
+- Accounting & Finance Certifications – Corporate Finance Institute  
+
+---
+
+# 📈 Professional Background
+
+Prior experience in:
+
+- Cross-functional stakeholder coordination  
+- Technical requirement translation  
+- Enterprise client communication  
+- Structured project execution  
+
+This strengthens my ability to connect machine learning systems with real business decisions.
+
+---
+
+# 🌱 Career Direction
+
+Short-Term:  
+AI/ML Engineer | Data Analyst | Business Intelligence roles  
+
+Long-Term:  
+AI Product Leadership | Financial AI Strategy  
+
+---
+
+# 🔗 Connect
+
+LinkedIn:  
+https://linkedin.com/in/linda-nguyen28  
