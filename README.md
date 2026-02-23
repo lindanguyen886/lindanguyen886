@@ -1,34 +1,34 @@
 # 🚀 Huong Thao (Linda) Nguyen  
 
-AI / ML Engineer | Data Analyst | Financial AI & Decision Intelligence | Future AI Product Leader  
+AI / ML Engineer | Data Analyst | Financial Analytics | Future AI Product Leader  
 
 ---
 
 ## 👋 About Me  
 
-I am a Data Analytics graduate student with hands-on experience building:
+I am a Master’s candidate in Data Analytics (May 2026) with hands-on experience in regression modeling, time-series forecasting, and applied machine learning.
 
-- Machine learning models for tabular and time-series forecasting  
-- LLM-powered financial applications  
-- SQL-driven analytical workflows  
-- Business intelligence dashboards and decision-support systems  
+My work includes:
 
-My work focuses on applying AI and machine learning to structured financial and business problems — with strong emphasis on model validation, interpretability, and real-world decision impact.
+- Machine learning for structured tabular data  
+- Financial time-series modeling  
+- LLM-based prototypes for decision-support  
+- Workforce and wage data analysis  
+- Business-oriented data interpretation  
 
-I combine technical depth with business understanding and Agile exposure (Professional Scrum Fundamentals completed; PSM I in progress).
+I focus on building practical, well-documented models and translating quantitative results into clear insights.
 
-**Long-term goal:** Lead AI-driven product and analytics teams bridging technology and business strategy.
+Long-term, I aim to lead AI-driven initiatives that connect technical modeling with real business impact.
 
 ---
 
 ## 🔬 Current Focus
 
-- 📈 Financial Time-Series Forecasting (LightGBM, multi-horizon modeling)
-- 🤖 LLM-based Investment Assistant Systems
-- 🧠 Applied Machine Learning for structured tabular data
-- 📊 Business Intelligence & SQL-based analytics
-- ⚙️ Model validation, leakage prevention, and forecasting stability
-- 🏗 Agile product thinking
+- Financial time-series forecasting using LightGBM  
+- Applied regression and model evaluation  
+- LLM-based financial assistant prototype  
+- Model validation and performance diagnostics  
+- Strengthening practical machine learning fundamentals  
 
 ---
 
@@ -37,30 +37,30 @@ I combine technical depth with business understanding and Agile exposure (Profes
 ### Programming
 Python (pandas, numpy, scikit-learn)  
 R (tidymodels)  
-SQL  
+SQL (academic)  
 
 ### Machine Learning
-Regression, Random Forest, LightGBM, GLMNet  
-Classification, Clustering  
-Feature Engineering  
-Cross-validation, RMSE, Weighted RMSE  
+Regression  
+Random Forest  
+LightGBM  
+GLMNet  
+Cross-validation  
+RMSE, Weighted RMSE  
 
 ### Time Series
-Forward validation  
+Time-based validation  
 Multi-horizon forecasting  
-Leakage prevention  
 
-### LLM & AI Systems
+### NLP
 OpenAI API integration  
-Prompt engineering  
-Structured output design  
-Context injection strategies  
+Structured prompt design  
+Basic text preprocessing  
 
-### Data & BI Tools
+### Tools
+Git  
+Jupyter Notebook  
 Excel  
-Cognos  
-Power BI (academic exposure)  
-MongoDB  
+Power BI (academic)  
 Matplotlib  
 
 ---
@@ -71,27 +71,28 @@ Matplotlib
 
 ## 📊 Hedge Fund Time Series Forecasting *(In Progress)*  
 
-LightGBM-based financial forecasting model (Kaggle competition)
+LightGBM-based regression model for multi-horizon financial forecasting (Kaggle competition)
 
-- Built multi-horizon regression pipeline for structured financial data  
-- Designed time-aware validation to prevent data leakage  
-- Tuned hyperparameters with early stopping  
-- Achieved preliminary Weighted RMSE ≈ 0.079 (ongoing optimization)  
-- Conducting forecast-horizon diagnostics for robustness  
+- Performed exploratory data analysis on structured time-series dataset  
+- Implemented LightGBM regression model  
+- Applied time-based validation to reduce leakage  
+- Tuned hyperparameters and used early stopping  
+- Achieved preliminary Weighted RMSE ≈ 0.079  
+- Analyzed model performance across forecast horizons  
 
 🔗 Repository:  
 https://github.com/lindanguyen886/hedge-fund-time-series  
 
 ---
 
-## 🤖 Portfolio Assistant AI – LLM-Based Investment Assistant *(In Progress)*  
+## 🤖 Portfolio Assistant AI *(In Progress)*  
 
-AI-powered individual investment assistant using OpenAI APIs  
+Prototype LLM-based investment assistant
 
-- Designed structured prompt engineering strategies  
-- Implemented financial context injection for improved reasoning  
-- Generated structured portfolio summaries and decision insights  
-- Exploring retrieval-based knowledge integration  
+- Built a financial analysis prototype using OpenAI API  
+- Designed structured prompts for portfolio summaries  
+- Implemented response formatting for consistent outputs  
+- Exploring improvements in retrieval integration  
 
 🔗 Repository:  
 https://github.com/lindanguyen886/portfolio-assistant-ai  
@@ -100,55 +101,42 @@ https://github.com/lindanguyen886/portfolio-assistant-ai
 
 ## 🏠 Ames Housing Price Prediction  
 
-End-to-end ML pipeline for tabular regression  
+Regression modeling project using R
 
-- Feature engineering and domain-driven variable selection  
-- Compared Linear Regression, GLMNet, Random Forest  
-- Achieved ~73% variance explanation (R²)  
-- Balanced model performance and interpretability  
+- Conducted EDA and feature selection  
+- Compared linear regression, GLMNet, and random forest  
+- Evaluated performance using cross-validation  
+- Achieved ~73% R² on holdout dataset  
+- Selected model balancing interpretability and performance  
 
 ---
 
 ## 🏆 TECHNATION Canada – AI Equity Data Challenge (Top 5 Finalist)
 
-- Analyzed national labor market datasets using SQL  
-- Identified AI adoption risks and wage disparities  
-- Presented executive-level recommendations  
+- Analyzed national labor market datasets using Python and Excel  
+- Performed data cleaning and comparative analysis  
+- Identified wage disparities related to AI exposure  
+- Presented structured insights and policy recommendations  
 
 ---
 
 # 🎓 Certifications
 
-- Professional Scrum Fundamentals – Scrum.org (Completed Jan 2026)  
+- Professional Scrum Fundamentals – Scrum.org (Completed 2026)  
 - Professional Scrum Master I (PSM I) – In Progress  
-- Python for Data Science, AI & Development – IBM  
+- IBM Python for Data Science  
 - Intermediate Regression in R – DataCamp  
-- Data Visualization and Dashboards – IBM  
-- Python Project for Data Science – IBM  
-- Accounting & Finance Certifications – Corporate Finance Institute  
-
----
-
-# 📈 Professional Background
-
-Prior experience in:
-
-- Cross-functional stakeholder coordination  
-- Technical requirement translation  
-- Enterprise client communication  
-- Structured project execution  
-
-This strengthens my ability to connect machine learning systems with real business decisions.
+- CFI Accounting & Excel Certifications  
 
 ---
 
 # 🌱 Career Direction
 
 Short-Term:  
-AI/ML Engineer | Data Analyst | Business Intelligence roles  
+AI/ML Engineer | Data Analyst  
 
 Long-Term:  
-AI Product Leadership | Financial AI Strategy  
+Lead AI-driven initiatives bridging analytics and business strategy  
 
 ---
 
