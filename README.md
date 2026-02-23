@@ -97,4 +97,4 @@ I believe strong analytics and AI should not only be technically sound — but a
 📍 Ontario, Canada  
 🔗 LinkedIn: www.linkedin.com/in/linda-nguyen28  
 💻 GitHub: github.com/lindanguyen886  
-📧 Email: nguyen4w@uwindsor.ca
+📧 Email: nguyenlinda886@gmail.com
